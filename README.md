@@ -1,2 +1,2 @@
 # Resort-management-system-
-java project
+dbms project
